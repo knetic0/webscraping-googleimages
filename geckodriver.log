@@ -1,0 +1,1391 @@
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/cups/doc-root /usr/share/cups/doc-root none bind,ro 0 0): cannot create directory "/usr/share/cups/doc-root": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot create directory "/usr/share/gimp/2.0": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot create directory "/usr/share/libreoffice/help": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1664894402379	geckodriver	INFO	Listening on 127.0.0.1:51675
+1664894403029	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile32oh8U"
+Gtk-Message: 17:40:03.112: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:40:03.120: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894403934	Marionette	INFO	Marionette enabled
+1664894403938	Marionette	INFO	Listening on port 37787
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37787
+WebDriver BiDi listening on ws://127.0.0.1:33877
+1664894404124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile32oh8U/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33877/devtools/browser/4dcca820-a78b-4cfe-91d4-9ecb13a6958e
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894412184	Marionette	INFO	Stopped listening on port 37787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664894412577	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1664894418763	geckodriver	INFO	Listening on 127.0.0.1:35169
+1664894419243	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQxL5Vm"
+Gtk-Message: 17:40:19.310: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:40:19.311: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894419794	Marionette	INFO	Marionette enabled
+1664894419797	Marionette	INFO	Listening on port 38701
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38701
+WebDriver BiDi listening on ws://127.0.0.1:51917
+1664894419950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQxL5Vm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51917/devtools/browser/abb40457-6244-43cb-8af6-3952887cf78e
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894433778	Marionette	INFO	Stopped listening on port 38701
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664894493821	geckodriver	INFO	Listening on 127.0.0.1:34341
+1664894494308	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen2GLc7"
+Gtk-Message: 17:41:34.374: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:41:34.375: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894494850	Marionette	INFO	Marionette enabled
+1664894494853	Marionette	INFO	Listening on port 34169
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 34169
+WebDriver BiDi listening on ws://127.0.0.1:52865
+1664894494959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen2GLc7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52865/devtools/browser/861cf489-6245-4ed0-b0d4-392b51a724ad
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894504845	Marionette	INFO	Stopped listening on port 34169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664894547625	geckodriver	INFO	Listening on 127.0.0.1:50261
+1664894548110	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel1x9Nl"
+Gtk-Message: 17:42:28.176: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:42:28.177: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894548666	Marionette	INFO	Marionette enabled
+1664894548669	Marionette	INFO	Listening on port 43087
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43087
+WebDriver BiDi listening on ws://127.0.0.1:33089
+1664894548789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel1x9Nl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33089/devtools/browser/f9501c9c-c9a9-43fc-bcb8-d37efba2c170
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894554062	Marionette	INFO	Stopped listening on port 43087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664894561387	geckodriver	INFO	Listening on 127.0.0.1:45147
+1664894561891	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexBedtF"
+Gtk-Message: 17:42:41.958: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:42:41.960: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894562477	Marionette	INFO	Marionette enabled
+1664894562480	Marionette	INFO	Listening on port 41845
+Read port: 41845
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43981
+1664894562611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexBedtF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43981/devtools/browser/f8d2ed4e-8a9b-4b22-ad6a-069445103d6a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894585331	Marionette	INFO	Stopped listening on port 41845
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664894635878	geckodriver	INFO	Listening on 127.0.0.1:44067
+1664894636365	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE3FkvO"
+Gtk-Message: 17:43:56.435: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:43:56.436: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894636922	Marionette	INFO	Marionette enabled
+1664894636925	Marionette	INFO	Listening on port 45183
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 45183
+WebDriver BiDi listening on ws://127.0.0.1:46243
+1664894637026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE3FkvO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46243/devtools/browser/b82e679f-a7e4-4798-bf0b-ed2c370b18ba
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894638769	Marionette	INFO	Stopped listening on port 45183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664894644026	geckodriver	INFO	Listening on 127.0.0.1:52531
+1664894644532	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRzGDvK"
+Gtk-Message: 17:44:04.599: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:44:04.600: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894645102	Marionette	INFO	Marionette enabled
+1664894645105	Marionette	INFO	Listening on port 43107
+Read port: 43107
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:34783
+1664894645209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRzGDvK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34783/devtools/browser/49570f42-2735-45c4-aae3-3196deb7063a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894663361	Marionette	INFO	Stopped listening on port 43107
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664894682126	geckodriver	INFO	Listening on 127.0.0.1:48073
+1664894682610	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "32959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJtmXvM"
+Gtk-Message: 17:44:42.684: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:44:42.686: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894683205	Marionette	INFO	Marionette enabled
+1664894683209	Marionette	INFO	Listening on port 34931
+Read port: 34931
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:32959
+1664894683331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJtmXvM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:32959/devtools/browser/19b7b063-ff0a-4636-a9a8-39c3fdf0f9bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894702419	Marionette	INFO	Stopped listening on port 34931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664894803009	geckodriver	INFO	Listening on 127.0.0.1:49727
+1664894803507	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSHjUbh"
+Gtk-Message: 17:46:43.575: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:46:43.576: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894804060	Marionette	INFO	Marionette enabled
+1664894804064	Marionette	INFO	Listening on port 36837
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 36837
+WebDriver BiDi listening on ws://127.0.0.1:49689
+1664894804165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSHjUbh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49689/devtools/browser/ac598acf-c2d1-4d03-977d-a12d46ff52de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894811957	Marionette	INFO	Stopped listening on port 36837
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664894913167	geckodriver	INFO	Listening on 127.0.0.1:49837
+1664894913671	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGkNe1B"
+Gtk-Message: 17:48:33.741: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:48:33.742: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894914229	Marionette	INFO	Marionette enabled
+1664894914232	Marionette	INFO	Listening on port 46597
+Read port: 46597
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:33517
+1664894914334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGkNe1B/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33517/devtools/browser/39aec15c-0db6-4a8b-9ed2-855223df8eb1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894930999	Marionette	INFO	Stopped listening on port 46597
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664894952921	geckodriver	INFO	Listening on 127.0.0.1:47349
+1664894953427	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC3pcvM"
+Gtk-Message: 17:49:13.497: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:49:13.498: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664894953974	Marionette	INFO	Marionette enabled
+1664894953978	Marionette	INFO	Listening on port 40043
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40043
+WebDriver BiDi listening on ws://127.0.0.1:60351
+1664894954107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC3pcvM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60351/devtools/browser/573512be-ca4e-4449-b5ea-72be19b6d47f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664894972386	Marionette	INFO	Stopped listening on port 40043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664894999929	geckodriver	INFO	Listening on 127.0.0.1:58977
+1664895000431	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZQjfOj"
+Gtk-Message: 17:50:00.498: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:50:00.499: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895000987	Marionette	INFO	Marionette enabled
+1664895000990	Marionette	INFO	Listening on port 41605
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 41605
+WebDriver BiDi listening on ws://127.0.0.1:43987
+1664895001100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZQjfOj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43987/devtools/browser/7302d794-c1eb-42c0-9d5e-4c192ab2a584
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895021975	Marionette	INFO	Stopped listening on port 41605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664895060668	geckodriver	INFO	Listening on 127.0.0.1:56639
+1664895061155	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOH2zNo"
+Gtk-Message: 17:51:01.221: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:51:01.223: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895061700	Marionette	INFO	Marionette enabled
+1664895061703	Marionette	INFO	Listening on port 39223
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39223
+WebDriver BiDi listening on ws://127.0.0.1:59957
+1664895061804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOH2zNo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59957/devtools/browser/87e1572a-e1dd-40ae-ad35-9dd6a94b8c79
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895085868	Marionette	INFO	Stopped listening on port 39223
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664895113738	geckodriver	INFO	Listening on 127.0.0.1:34903
+1664895114143	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9zhY7Q"
+Gtk-Message: 17:51:54.212: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:51:54.214: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895114694	Marionette	INFO	Marionette enabled
+1664895114697	Marionette	INFO	Listening on port 39723
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39723
+WebDriver BiDi listening on ws://127.0.0.1:60305
+1664895114835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9zhY7Q/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60305/devtools/browser/c6286084-2fe9-4447-a04f-f1bbc55f43bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895137378	Marionette	INFO	Stopped listening on port 39723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664895245228	geckodriver	INFO	Listening on 127.0.0.1:46541
+1664895245714	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0PmiHi"
+Gtk-Message: 17:54:05.785: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:54:05.786: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895246261	Marionette	INFO	Marionette enabled
+1664895246264	Marionette	INFO	Listening on port 37803
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37803
+WebDriver BiDi listening on ws://127.0.0.1:38199
+1664895246388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0PmiHi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38199/devtools/browser/9c148e62-ea24-4a7e-9798-9d0108b0f988
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895265918	Marionette	INFO	Stopped listening on port 37803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664895324741	geckodriver	INFO	Listening on 127.0.0.1:52859
+1664895325071	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRYEcHw"
+Gtk-Message: 17:55:25.136: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:55:25.137: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895325635	Marionette	INFO	Marionette enabled
+1664895325639	Marionette	INFO	Listening on port 32829
+Read port: 32829
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:60005
+1664895325768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRYEcHw/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60005/devtools/browser/a6308887-caef-4e5e-ba23-dd43053b91e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895349528	Marionette	INFO	Stopped listening on port 32829
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664895432947	geckodriver	INFO	Listening on 127.0.0.1:37423
+1664895433435	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelf1eKM"
+Gtk-Message: 17:57:13.502: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:57:13.503: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895433989	Marionette	INFO	Marionette enabled
+1664895433992	Marionette	INFO	Listening on port 45231
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 45231
+WebDriver BiDi listening on ws://127.0.0.1:52957
+1664895434093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelf1eKM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52957/devtools/browser/a5f651b2-ebc6-4da9-9628-27d6a201aa7f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895450505	Marionette	INFO	Stopped listening on port 45231
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664895619394	geckodriver	INFO	Listening on 127.0.0.1:54391
+1664895619885	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelv6NHD"
+Gtk-Message: 18:00:19.956: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:00:19.957: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895620427	Marionette	INFO	Marionette enabled
+1664895620431	Marionette	INFO	Listening on port 43933
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43933
+WebDriver BiDi listening on ws://127.0.0.1:56687
+1664895620530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelv6NHD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56687/devtools/browser/601bc903-2dcb-4a9b-8979-b9489f76efb2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895638751	Marionette	INFO	Stopped listening on port 43933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664895705541	geckodriver	INFO	Listening on 127.0.0.1:60685
+1664895706035	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile12KATV"
+Gtk-Message: 18:01:46.101: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:01:46.102: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895706589	Marionette	INFO	Marionette enabled
+1664895706592	Marionette	INFO	Listening on port 41545
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 41545
+WebDriver BiDi listening on ws://127.0.0.1:50071
+1664895706694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile12KATV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50071/devtools/browser/0c6ab8d7-d68f-41e7-a1eb-0ac7a0dcc490
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895715385	Marionette	INFO	Stopped listening on port 41545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664895719781	geckodriver	INFO	Listening on 127.0.0.1:42521
+1664895720283	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekEbgmd"
+Gtk-Message: 18:02:00.352: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:02:00.353: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895720849	Marionette	INFO	Marionette enabled
+1664895720852	Marionette	INFO	Listening on port 46031
+Read port: 46031
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:46175
+1664895720952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekEbgmd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46175/devtools/browser/e69a7b6c-6016-4a6c-8f01-10dd4b1a7d8e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664895749235	Marionette	INFO	Stopped listening on port 46031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664895768276	geckodriver	INFO	Listening on 127.0.0.1:46053
+1664895768765	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileViOL82"
+Gtk-Message: 18:02:48.837: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:02:48.838: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664895769321	Marionette	INFO	Marionette enabled
+1664895769325	Marionette	INFO	Listening on port 33509
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33509
+WebDriver BiDi listening on ws://127.0.0.1:55713
+1664895769427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileViOL82/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55713/devtools/browser/752b34ea-b514-4cf2-ac98-d87dcf91aaa7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664896035789	Marionette	INFO	Stopped listening on port 33509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664896598151	geckodriver	INFO	Listening on 127.0.0.1:32871
+1664896598583	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileY3opdf"
+Gtk-Message: 18:16:38.651: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:16:38.652: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664896599130	Marionette	INFO	Marionette enabled
+1664896599133	Marionette	INFO	Listening on port 33069
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33069
+WebDriver BiDi listening on ws://127.0.0.1:33859
+1664896599280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY3opdf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33859/devtools/browser/b8561876-b052-4f3a-a146-f197aeb44d02
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664896608760	Marionette	INFO	Stopped listening on port 33069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664896681059	geckodriver	INFO	Listening on 127.0.0.1:47129
+1664896681563	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJUGocm"
+Gtk-Message: 18:18:01.630: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:18:01.632: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664896682129	Marionette	INFO	Marionette enabled
+1664896682132	Marionette	INFO	Listening on port 37809
+Read port: 37809
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:60685
+1664896682268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJUGocm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60685/devtools/browser/bbeca2a6-b7dd-491d-854b-a4c40412cfff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1664896733905	geckodriver	INFO	Listening on 127.0.0.1:58573
+1664896734407	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile62mfvu"
+Gtk-Message: 18:18:54.474: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:18:54.476: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664896734965	Marionette	INFO	Marionette enabled
+1664896734968	Marionette	INFO	Listening on port 34483
+Read port: 34483
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:57801
+1664896735069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile62mfvu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57801/devtools/browser/b65d2503-441a-4c09-b7fb-7a97b7835d2a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664896750974	Marionette	INFO	Stopped listening on port 34483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664896765053	geckodriver	INFO	Listening on 127.0.0.1:54053
+1664896765556	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ws9Ud"
+Gtk-Message: 18:19:25.627: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:19:25.628: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664896766114	Marionette	INFO	Marionette enabled
+1664896766117	Marionette	INFO	Listening on port 44133
+Read port: 44133
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:53893
+1664896766239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Ws9Ud/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53893/devtools/browser/ca121fd0-e031-4db4-a8a4-78ad9161d60c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1664896810298	geckodriver	INFO	Listening on 127.0.0.1:48025
+1664896810835	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7q5EEn"
+Gtk-Message: 18:20:10.904: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:20:10.905: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664896811397	Marionette	INFO	Marionette enabled
+1664896811400	Marionette	INFO	Listening on port 38343
+Read port: 38343
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:39437
+1664896811531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7q5EEn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39437/devtools/browser/7a80396b-fc35-4b84-ba76-bbd7073b31de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+1664896889535	geckodriver	INFO	Listening on 127.0.0.1:40785
+1664896890031	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledhacwA"
+Gtk-Message: 18:21:30.100: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:21:30.101: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664896890589	Marionette	INFO	Marionette enabled
+1664896890592	Marionette	INFO	Listening on port 46703
+Read port: 46703
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:48045
+1664896890727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledhacwA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48045/devtools/browser/6d4a760c-4d3a-49a9-b406-80744d3ef479
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664896897810	Marionette	INFO	Stopped listening on port 46703
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664896900102	Marionette	INFO	Stopped listening on port 44133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664896902572	Marionette	INFO	Stopped listening on port 38343
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664896905094	Marionette	INFO	Stopped listening on port 37809
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664896978005	geckodriver	INFO	Listening on 127.0.0.1:40381
+1664896978455	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV4zbK0"
+Gtk-Message: 18:22:58.522: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:22:58.523: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664896979018	Marionette	INFO	Marionette enabled
+1664896979021	Marionette	INFO	Listening on port 45377
+Read port: 45377
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:58359
+1664896979122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV4zbK0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58359/devtools/browser/fc42acc8-7671-4c3e-a71c-adda7fc69fd7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664896985982	Marionette	INFO	Stopped listening on port 45377
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664897004880	geckodriver	INFO	Listening on 127.0.0.1:57263
+1664897005364	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem4Ft9o"
+Gtk-Message: 18:23:25.437: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:23:25.438: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897005924	Marionette	INFO	Marionette enabled
+1664897005927	Marionette	INFO	Listening on port 37353
+Read port: 37353
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:47447
+1664897006072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem4Ft9o/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47447/devtools/browser/c9bf496d-dfca-480f-8261-17d2f37f27a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897014901	Marionette	INFO	Stopped listening on port 37353
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664897032391	geckodriver	INFO	Listening on 127.0.0.1:43961
+1664897032871	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFseCwj"
+Gtk-Message: 18:23:52.950: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:23:52.952: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897033441	Marionette	INFO	Marionette enabled
+1664897033444	Marionette	INFO	Listening on port 32857
+Read port: 32857
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:57505
+1664897033544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFseCwj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57505/devtools/browser/69f53f8e-b266-4050-b3bf-69ad9f2494e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+1664897077363	geckodriver	INFO	Listening on 127.0.0.1:60109
+1664897077827	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeuJQbX"
+Gtk-Message: 18:24:37.896: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:24:37.897: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897078369	Marionette	INFO	Marionette enabled
+1664897078372	Marionette	INFO	Listening on port 33651
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33651
+WebDriver BiDi listening on ws://127.0.0.1:38009
+1664897078498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeuJQbX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38009/devtools/browser/2d632221-dd11-4655-a62d-31764847d788
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+1664897101593	geckodriver	INFO	Listening on 127.0.0.1:47655
+1664897102064	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6cI8H8"
+Gtk-Message: 18:25:02.133: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:25:02.134: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897102620	Marionette	INFO	Marionette enabled
+1664897102623	Marionette	INFO	Listening on port 41393
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 41393
+WebDriver BiDi listening on ws://127.0.0.1:36167
+1664897102725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6cI8H8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36167/devtools/browser/2a992c29-fb3b-4476-89fd-5f76aa8acdeb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897115989	Marionette	INFO	Stopped listening on port 41393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897119429	Marionette	INFO	Stopped listening on port 32857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897121974	Marionette	INFO	Stopped listening on port 33651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897150584	geckodriver	INFO	Listening on 127.0.0.1:40073
+1664897151059	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUtcDwR"
+Gtk-Message: 18:25:51.125: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:25:51.126: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897151616	Marionette	INFO	Marionette enabled
+1664897151619	Marionette	INFO	Listening on port 42075
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42075
+WebDriver BiDi listening on ws://127.0.0.1:55623
+1664897151755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUtcDwR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55623/devtools/browser/2ca0c2a0-f57e-4848-98b4-8443be2960d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897161225	Marionette	INFO	Stopped listening on port 42075
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897171698	geckodriver	INFO	Listening on 127.0.0.1:37413
+1664897172187	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8rfiTs"
+Gtk-Message: 18:26:12.265: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:26:12.266: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897172763	Marionette	INFO	Marionette enabled
+1664897172766	Marionette	INFO	Listening on port 37729
+Read port: 37729
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:38807
+1664897172896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8rfiTs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38807/devtools/browser/bc3ace67-f983-40c8-8312-3323f97154d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897181152	Marionette	INFO	Stopped listening on port 37729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664897190165	geckodriver	INFO	Listening on 127.0.0.1:51681
+1664897190667	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOx6xqT"
+Gtk-Message: 18:26:30.734: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:26:30.735: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897191214	Marionette	INFO	Marionette enabled
+1664897191217	Marionette	INFO	Listening on port 37903
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37903
+WebDriver BiDi listening on ws://127.0.0.1:57013
+1664897191316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOx6xqT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57013/devtools/browser/d271f108-11c8-4045-b26f-cb58818b9774
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897199080	Marionette	INFO	Stopped listening on port 37903
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897262491	geckodriver	INFO	Listening on 127.0.0.1:51395
+1664897262942	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel68bSB"
+Gtk-Message: 18:27:43.019: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:27:43.020: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897263509	Marionette	INFO	Marionette enabled
+1664897263513	Marionette	INFO	Listening on port 33501
+Read port: 33501
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:44805
+1664897263635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel68bSB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44805/devtools/browser/5cf95a53-dcd2-407a-a362-a2c232436218
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897269824	Marionette	INFO	Stopped listening on port 33501
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897321163	geckodriver	INFO	Listening on 127.0.0.1:43993
+1664897321643	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiJ920P"
+Gtk-Message: 18:28:41.710: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:28:41.711: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897322178	Marionette	INFO	Marionette enabled
+1664897322182	Marionette	INFO	Listening on port 42165
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42165
+WebDriver BiDi listening on ws://127.0.0.1:43769
+1664897322283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiJ920P/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43769/devtools/browser/8f0fc5fe-0cb3-4f58-9a5d-c7c715bdc8f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897330649	Marionette	INFO	Stopped listening on port 42165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897349407	geckodriver	INFO	Listening on 127.0.0.1:42271
+1664897349883	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileY6k5lm"
+Gtk-Message: 18:29:09.951: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:29:09.952: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897350441	Marionette	INFO	Marionette enabled
+1664897350445	Marionette	INFO	Listening on port 45553
+Read port: 45553
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:58821
+1664897350588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY6k5lm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58821/devtools/browser/5a49f8b9-202b-4d70-9c15-83a5ee8e930d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897359084	Marionette	INFO	Stopped listening on port 45553
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897366286	geckodriver	INFO	Listening on 127.0.0.1:38401
+1664897366791	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRPoQ8R"
+Gtk-Message: 18:29:26.857: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:29:26.859: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897367349	Marionette	INFO	Marionette enabled
+1664897367352	Marionette	INFO	Listening on port 44817
+Read port: 44817
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:52693
+1664897367480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRPoQ8R/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52693/devtools/browser/8925b155-57a1-4ac9-9093-72c126a9c632
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897376128	Marionette	INFO	Stopped listening on port 44817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897386200	geckodriver	INFO	Listening on 127.0.0.1:41809
+1664897386691	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3htfjr"
+Gtk-Message: 18:29:46.757: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:29:46.758: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897387231	Marionette	INFO	Marionette enabled
+1664897387234	Marionette	INFO	Listening on port 41097
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 41097
+WebDriver BiDi listening on ws://127.0.0.1:55553
+1664897387359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3htfjr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55553/devtools/browser/b810f809-f939-4cd6-9694-bb93727ac854
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897395097	Marionette	INFO	Stopped listening on port 41097
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897407839	geckodriver	INFO	Listening on 127.0.0.1:40889
+1664897408324	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0kQKW4"
+Gtk-Message: 18:30:08.392: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:30:08.393: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897408878	Marionette	INFO	Marionette enabled
+1664897408881	Marionette	INFO	Listening on port 36811
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 36811
+WebDriver BiDi listening on ws://127.0.0.1:34455
+1664897409030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0kQKW4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34455/devtools/browser/43fb4f97-dcbb-4c82-bf36-544385a40f1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897415637	Marionette	INFO	Stopped listening on port 36811
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664897466543	geckodriver	INFO	Listening on 127.0.0.1:47945
+1664897467008	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF1797a"
+Gtk-Message: 18:31:07.091: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:31:07.092: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897467569	Marionette	INFO	Marionette enabled
+1664897467573	Marionette	INFO	Listening on port 37701
+Read port: 37701
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:60731
+1664897467721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF1797a/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60731/devtools/browser/7dc36ae0-542f-418a-8dce-1354f03d2109
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897475045	Marionette	INFO	Stopped listening on port 37701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664897555967	geckodriver	INFO	Listening on 127.0.0.1:52111
+1664897556448	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqq9Aga"
+Gtk-Message: 18:32:36.531: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:32:36.532: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897557017	Marionette	INFO	Marionette enabled
+1664897557021	Marionette	INFO	Listening on port 38881
+Read port: 38881
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:38081
+1664897557121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqq9Aga/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38081/devtools/browser/3cd75d77-46b6-4e04-b642-3d5cf6d3a6e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897564397	Marionette	INFO	Stopped listening on port 38881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897598876	geckodriver	INFO	Listening on 127.0.0.1:59243
+1664897599371	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelIM9ZA"
+Gtk-Message: 18:33:19.438: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:33:19.439: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897599917	Marionette	INFO	Marionette enabled
+1664897599920	Marionette	INFO	Listening on port 42863
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42863
+WebDriver BiDi listening on ws://127.0.0.1:43987
+1664897600051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelIM9ZA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43987/devtools/browser/acbee9ff-def7-4ce4-a6af-59bef716c46d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897644486	Marionette	INFO	Stopped listening on port 42863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664897646057	geckodriver	INFO	Listening on 127.0.0.1:40663
+1664897646536	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledkV3rk"
+Gtk-Message: 18:34:06.609: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:34:06.611: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897647131	Marionette	INFO	Marionette enabled
+1664897647135	Marionette	INFO	Listening on port 40551
+Read port: 40551
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:39539
+1664897647252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledkV3rk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39539/devtools/browser/0e900840-3e4f-4941-abf2-663df455f5f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+console.error: "Exception while getting unique selector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967299/domnode114, type getUniqueSelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_create/<@resource://devtools/client/inspector/rules/views/rule-editor.js:208:72\n_create@resource://devtools/client/inspector/rules/views/rule-editor.js:221:20\nRuleEditor@resource://devtools/client/inspector/rules/views/rule-editor.js:80:8\n_createEditors@resource://devtools/client/inspector/rules/rules.js:1341:23\n_populate/<@resource://devtools/client/inspector/rules/rules.js:1126:37\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1685:21\nCanCloseWindow@chrome://browser/content/browser.js:8020:36\nWindowIsClosing@chrome://browser/content/browser.js:8049:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3073:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897658822	Marionette	INFO	Stopped listening on port 40551
+1664897760537	geckodriver	INFO	Listening on 127.0.0.1:50443
+1664897761039	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePH6F3e"
+Gtk-Message: 18:36:01.106: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:36:01.107: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897761581	Marionette	INFO	Marionette enabled
+1664897761584	Marionette	INFO	Listening on port 40817
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40817
+WebDriver BiDi listening on ws://127.0.0.1:57459
+1664897761683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePH6F3e/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57459/devtools/browser/5d072d2b-fb12-4b93-8c94-dd2d62b04097
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897778956	Marionette	INFO	Stopped listening on port 40817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664897796016	geckodriver	INFO	Listening on 127.0.0.1:45971
+1664897796463	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefFXHtV"
+Gtk-Message: 18:36:36.530: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:36:36.531: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897797000	Marionette	INFO	Marionette enabled
+1664897797004	Marionette	INFO	Listening on port 34245
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 34245
+WebDriver BiDi listening on ws://127.0.0.1:44589
+1664897797134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefFXHtV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44589/devtools/browser/e8420d33-6507-4d31-98ed-af4e88d09aa5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897814404	Marionette	INFO	Stopped listening on port 34245
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664897828786	geckodriver	INFO	Listening on 127.0.0.1:56609
+1664897829267	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeNRyzP"
+Gtk-Message: 18:37:09.334: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:37:09.335: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897829812	Marionette	INFO	Marionette enabled
+1664897829815	Marionette	INFO	Listening on port 38051
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38051
+WebDriver BiDi listening on ws://127.0.0.1:46101
+1664897829914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeNRyzP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46101/devtools/browser/fe00f00e-241d-4c4b-b3e0-8938760575c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897849373	Marionette	INFO	Stopped listening on port 38051
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664897902934	geckodriver	INFO	Listening on 127.0.0.1:55759
+1664897903440	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFUKqvz"
+Gtk-Message: 18:38:23.506: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:38:23.507: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664897903982	Marionette	INFO	Marionette enabled
+1664897903985	Marionette	INFO	Listening on port 37509
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37509
+WebDriver BiDi listening on ws://127.0.0.1:36599
+1664897904088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFUKqvz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36599/devtools/browser/362d3dcf-8504-4cca-8cf1-efcbe01a9592
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664897912777	Marionette	INFO	Stopped listening on port 37509
+1664898079126	geckodriver	INFO	Listening on 127.0.0.1:42069
+1664898079603	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebkBlLP"
+Gtk-Message: 18:41:19.670: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:41:19.671: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898080149	Marionette	INFO	Marionette enabled
+1664898080152	Marionette	INFO	Listening on port 42999
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42999
+WebDriver BiDi listening on ws://127.0.0.1:34401
+1664898080251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebkBlLP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34401/devtools/browser/4f6ef83d-bbb2-4e8f-90ce-ef66abb6a703
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898093137	Marionette	INFO	Stopped listening on port 42999
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664898321026	geckodriver	INFO	Listening on 127.0.0.1:54003
+1664898321495	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1ASx37"
+Gtk-Message: 18:45:21.561: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:45:21.562: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898322038	Marionette	INFO	Marionette enabled
+1664898322041	Marionette	INFO	Listening on port 40915
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40915
+WebDriver BiDi listening on ws://127.0.0.1:57311
+1664898322142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1ASx37/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57311/devtools/browser/a806d225-ba5e-4db3-9c33-57a528d3a903
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898332809	Marionette	INFO	Stopped listening on port 40915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664898338340	geckodriver	INFO	Listening on 127.0.0.1:40645
+1664898338843	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIA2gYi"
+Gtk-Message: 18:45:38.912: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:45:38.913: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898339398	Marionette	INFO	Marionette enabled
+1664898339402	Marionette	INFO	Listening on port 38633
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38633
+WebDriver BiDi listening on ws://127.0.0.1:33763
+1664898339529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIA2gYi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33763/devtools/browser/c8941b3a-9991-4e64-875d-b73513dd011f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898375102	Marionette	INFO	Stopped listening on port 38633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664898378017	geckodriver	INFO	Listening on 127.0.0.1:58101
+1664898378519	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSFkYiw"
+Gtk-Message: 18:46:18.587: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:46:18.588: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898379073	Marionette	INFO	Marionette enabled
+1664898379076	Marionette	INFO	Listening on port 32809
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 32809
+WebDriver BiDi listening on ws://127.0.0.1:40327
+1664898379199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSFkYiw/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40327/devtools/browser/2578dfba-80d9-4a38-a504-b7e188fdcf56
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898386615	Marionette	INFO	Stopped listening on port 32809
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664898406760	geckodriver	INFO	Listening on 127.0.0.1:44973
+1664898407260	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRZ3rA7"
+Gtk-Message: 18:46:47.328: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:46:47.330: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898407812	Marionette	INFO	Marionette enabled
+1664898407816	Marionette	INFO	Listening on port 34231
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 34231
+WebDriver BiDi listening on ws://127.0.0.1:45611
+1664898407917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRZ3rA7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45611/devtools/browser/a38d402e-0c53-43dc-bc3e-2826431c3b4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898417907	Marionette	INFO	Stopped listening on port 34231
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664898433459	geckodriver	INFO	Listening on 127.0.0.1:52513
+1664898433951	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCz2u5v"
+Gtk-Message: 18:47:14.018: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:47:14.020: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898434528	Marionette	INFO	Marionette enabled
+1664898434532	Marionette	INFO	Listening on port 36477
+Read port: 36477
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:59399
+1664898434645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCz2u5v/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59399/devtools/browser/68667ef6-82cc-4f86-8525-4c9400b384ca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898443343	Marionette	INFO	Stopped listening on port 36477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664898584535	geckodriver	INFO	Listening on 127.0.0.1:50305
+1664898585035	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDEdd8H"
+Gtk-Message: 18:49:45.102: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:49:45.103: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898585596	Marionette	INFO	Marionette enabled
+1664898585599	Marionette	INFO	Listening on port 38311
+Read port: 38311
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:48325
+1664898585731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDEdd8H/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48325/devtools/browser/8a9da774-9cca-4234-a3a9-7220522d36dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+1664898626317	geckodriver	INFO	Listening on 127.0.0.1:42663
+1664898626819	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTFbPiW"
+Gtk-Message: 18:50:26.887: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:50:26.888: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898627377	Marionette	INFO	Marionette enabled
+1664898627381	Marionette	INFO	Listening on port 34787
+Read port: 34787
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:53005
+1664898627532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTFbPiW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53005/devtools/browser/de55ea12-5724-461a-a1ed-47c5494d27b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898694833	Marionette	INFO	Stopped listening on port 34787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898696720	Marionette	INFO	Stopped listening on port 38311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664898699283	geckodriver	INFO	Listening on 127.0.0.1:44847
+1664898699783	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT1yaMQ"
+Gtk-Message: 18:51:39.852: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:51:39.853: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664898700338	Marionette	INFO	Marionette enabled
+1664898700342	Marionette	INFO	Listening on port 39025
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39025
+WebDriver BiDi listening on ws://127.0.0.1:42015
+1664898700443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT1yaMQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42015/devtools/browser/655119e4-1184-4bb8-89cf-a0049edc11f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664898771251	Marionette	INFO	Stopped listening on port 39025
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664899363080	geckodriver	INFO	Listening on 127.0.0.1:34317
+1664899363579	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGEPcNM"
+Gtk-Message: 19:02:43.650: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:02:43.651: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664899364133	Marionette	INFO	Marionette enabled
+1664899364136	Marionette	INFO	Listening on port 43141
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43141
+WebDriver BiDi listening on ws://127.0.0.1:45847
+1664899364268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGEPcNM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45847/devtools/browser/d1db3f36-f084-43e9-b17b-29b660f009f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664899375716	Marionette	INFO	Stopped listening on port 43141
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664899408598	geckodriver	INFO	Listening on 127.0.0.1:38019
+1664899409099	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZgKMRz"
+Gtk-Message: 19:03:29.168: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:03:29.169: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664899409658	Marionette	INFO	Marionette enabled
+1664899409661	Marionette	INFO	Listening on port 45949
+Read port: 45949
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:37491
+1664899409762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZgKMRz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37491/devtools/browser/7e03acbe-2e64-4cac-aad7-84e81b7022ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664899419362	Marionette	INFO	Stopped listening on port 45949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/cups/doc-root /usr/share/cups/doc-root none bind,ro 0 0): cannot create directory "/usr/share/cups/doc-root": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot create directory "/usr/share/gimp/2.0": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot create directory "/usr/share/libreoffice/help": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1664947780895	geckodriver	INFO	Listening on 127.0.0.1:46257
+1664947781443	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW46dgm"
+Gtk-Message: 08:29:41.511: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:29:41.533: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664947782248	Marionette	INFO	Marionette enabled
+1664947782252	Marionette	INFO	Listening on port 36199
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 36199
+WebDriver BiDi listening on ws://127.0.0.1:41691
+1664947782421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW46dgm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41691/devtools/browser/f84de58d-cc82-499c-8813-d3f39d752b02
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664947855698	Marionette	INFO	Stopped listening on port 36199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664947855734	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[2022-10-05T05:30:55Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1664947917747	geckodriver	INFO	Listening on 127.0.0.1:39069
+1664947918251	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN4wFjs"
+Gtk-Message: 08:31:58.319: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:31:58.321: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664947918842	Marionette	INFO	Marionette enabled
+1664947918845	Marionette	INFO	Listening on port 44963
+Read port: 44963
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:33005
+1664947918971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN4wFjs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33005/devtools/browser/63c94008-80e3-4f24-a2b2-9b49cd3c6a88
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664947955338	Marionette	INFO	Stopped listening on port 44963
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664947959595	geckodriver	INFO	Listening on 127.0.0.1:37973
+1664947960071	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ4OT94"
+Gtk-Message: 08:32:40.137: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:32:40.138: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664947960599	Marionette	INFO	Marionette enabled
+1664947960602	Marionette	INFO	Listening on port 42735
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42735
+WebDriver BiDi listening on ws://127.0.0.1:60245
+1664947960732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ4OT94/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60245/devtools/browser/a28dcd50-7f4f-4667-9423-abd15d7cd08c
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664947973865	Marionette	INFO	Stopped listening on port 42735
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664948061689	geckodriver	INFO	Listening on 127.0.0.1:40881
+1664948062185	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuuxTuP"
+Gtk-Message: 08:34:22.249: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:34:22.250: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664948062885	Marionette	INFO	Marionette enabled
+1664948062889	Marionette	INFO	Listening on port 44423
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44423
+WebDriver BiDi listening on ws://127.0.0.1:45441
+1664948063063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuuxTuP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45441/devtools/browser/4ba4aae0-c0af-420c-9fd9-2b92e79c2b9a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664948070990	Marionette	INFO	Stopped listening on port 44423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664948258033	geckodriver	INFO	Listening on 127.0.0.1:34677
+1664948258520	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC0H9kR"
+Gtk-Message: 08:37:38.586: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:37:38.587: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664948259062	Marionette	INFO	Marionette enabled
+1664948259065	Marionette	INFO	Listening on port 34255
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 34255
+WebDriver BiDi listening on ws://127.0.0.1:42887
+1664948259186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC0H9kR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42887/devtools/browser/42311bf0-2b84-465e-8753-64e6d6170521
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664948266476	Marionette	INFO	Stopped listening on port 34255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664948278227	geckodriver	INFO	Listening on 127.0.0.1:51857
+1664948278712	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVYYKf6"
+Gtk-Message: 08:37:58.778: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:37:58.779: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664948279241	Marionette	INFO	Marionette enabled
+1664948279245	Marionette	INFO	Listening on port 40409
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40409
+WebDriver BiDi listening on ws://127.0.0.1:44387
+1664948279413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVYYKf6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44387/devtools/browser/7e85a06d-250a-4960-bbc9-a9373ed21523
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664948290343	Marionette	INFO	Stopped listening on port 40409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664948475517	geckodriver	INFO	Listening on 127.0.0.1:49839
+1664948476000	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAfRKiY"
+Gtk-Message: 08:41:16.065: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:41:16.066: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664948476528	Marionette	INFO	Marionette enabled
+1664948476531	Marionette	INFO	Listening on port 42249
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42249
+WebDriver BiDi listening on ws://127.0.0.1:34881
+1664948476710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAfRKiY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34881/devtools/browser/33043a5e-1b92-42cd-8c1c-a4bde37338d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664948483306	Marionette	INFO	Stopped listening on port 42249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
