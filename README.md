@@ -14,6 +14,8 @@ for Windows using like that:
 python3 main.py -s <whatdoyouwwantosearch?>
 ```
 
+and remove # from 70.row.
+
 If you want to search from chromedriver:
 
 firstly ```https://chromedriver.chromium.org/downloads``` download chromedriver. Check your google chrome version and download.
