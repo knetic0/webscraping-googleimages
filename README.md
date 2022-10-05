@@ -21,3 +21,5 @@ If you want to search from chromedriver:
 firstly ```https://chromedriver.chromium.org/downloads``` download chromedriver. Check your google chrome version and download.
 
 then remove # from 19. row.
+
+add # to 20.row.
