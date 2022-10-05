@@ -1410,3 +1410,44 @@ console.error: "Error during quit-application-granted: [Exception... \"File erro
 1664954063886	Marionette	INFO	Stopped listening on port 36531
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664960238541	geckodriver	INFO	Listening on 127.0.0.1:57699
+1664960239028	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXDiwV5"
+Gtk-Message: 11:57:19.094: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:57:19.095: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664960239557	Marionette	INFO	Marionette enabled
+1664960239560	Marionette	INFO	Listening on port 35211
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 35211
+WebDriver BiDi listening on ws://127.0.0.1:43315
+1664960239714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXDiwV5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43315/devtools/browser/64eb82aa-af62-4a10-8209-dda55eb302a4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664960253910	Marionette	INFO	Stopped listening on port 35211
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664960277142	geckodriver	INFO	Listening on 127.0.0.1:53015
+1664960277633	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefArGHA"
+Gtk-Message: 11:57:57.704: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:57:57.705: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664960278170	Marionette	INFO	Marionette enabled
+1664960278173	Marionette	INFO	Listening on port 35033
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 35033
+WebDriver BiDi listening on ws://127.0.0.1:47599
+1664960278292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefArGHA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47599/devtools/browser/963643a8-4171-4123-8ace-fed67c36e909
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.tr."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664960285612	Marionette	INFO	Stopped listening on port 35033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
