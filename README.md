@@ -2,13 +2,13 @@
 Web Scraping - Google Images
 
 
-for Linux using like that:
+**For Linux using like that:**
 
 ```
 ./.dinstaller.sh
 ```
 
-for Windows using like that (if you have firefox):
+**For Windows using like that (if you have firefox):**
 
 Remove # from 70.row.
 
