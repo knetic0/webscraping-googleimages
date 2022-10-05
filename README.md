@@ -10,11 +10,7 @@ for Linux using like that:
 
 for Windows using like that (if you have firefox):
 
-```
-python3 main.py -s <whatdoyouwwantosearch?>
-```
-
-and remove # from 70.row.
+Remove # from 70.row.
 
 If you want to search from chromedriver:
 
@@ -23,3 +19,12 @@ firstly ```https://chromedriver.chromium.org/downloads``` download chromedriver.
 then remove # from 19. row.
 
 add # to 20.row.
+
+and run code.
+
+```
+python3 main.py -s <whatdoyouwwantosearch?>
+```
+
+
+
