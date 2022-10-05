@@ -67,5 +67,5 @@ if __name__ == "__main__":
 	input_data.add_option("-s", dest="search", default="profile photos")
 	(option, args) = input_data.parse_args(sys.argv)
 	search_input = option.search
-	# subprocess.run(["bash", ".dinstaller.sh"])
+	# subprocess.run(["pip", "install", "selenium"])
 	Main()
