@@ -8,7 +8,7 @@ for Linux using like that:
 ./.dinstaller.sh
 ```
 
-for Windows using like that:
+for Windows using like that (if you have firefox):
 
 ```
 python3 main.py -s <whatdoyouwwantosearch?>
