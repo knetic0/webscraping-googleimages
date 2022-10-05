@@ -2,17 +2,17 @@
 Web Scraping - Google Images
 
 
-**For Linux using like that:**
+## For Linux using like that:
 
 ```
 ./.dinstaller.sh
 ```
 
-**For Windows using like that (if you have firefox):**
+## For Windows using like that (if you have firefox):
 
 Remove # from 70.row.
 
-If you want to search from chromedriver:
+**If you want to search from chromedriver:**
 
 firstly ```https://chromedriver.chromium.org/downloads``` download chromedriver. Check your google chrome version and download.
 
