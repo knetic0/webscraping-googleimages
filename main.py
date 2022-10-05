@@ -22,6 +22,14 @@ class Main:
 	all_photos = {}
 
 	def __init__(self):
+
+		'''
+			Constructor function.
+		self.driver
+		self.LAST_HEIGHT
+		self.get()
+		'''
+
 		# self.driver = webdriver.Chrome(executable_path=r'chromedriver')
 		self.driver = webdriver.Firefox()
 		self.driver.get(self.url)
@@ -64,7 +72,7 @@ class Main:
 	def Print(self):
 		for data in self.datas[5:]:
 			if data.get_attribute('src') is not None:
-				self.all_photos[self.index] = data.get_attribute('src')
+				self.all_photos[self.index] = data.get_attribute('src') # get links of all photos
 				self.index = self.index + 1
 
 		self.ToJson()
@@ -72,7 +80,7 @@ class Main:
 	
 	def ToJson(self):
 		with open("photos.json", "w") as f:
-			f.write(json.dumps(self.all_photos, indent = 2))
+			f.write(json.dumps(self.all_photos, indent = 2)) # writing datas to json file
 
 # finish
 
