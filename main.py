@@ -5,20 +5,27 @@ import subprocess
 from optparse import OptionParser
 import sys
 import json
+import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
 class Main:
+	''' CONST VARIABLES'''
+	SCROLL_PAUSE_TIME = 0.5
+	''''''
 	url = "https://www.google.com.tr/imghp?hl=tr"
+	timer = 0
 	index = 0
 	datas = []
 	all_photos = {}
+
 	def __init__(self):
 		# self.driver = webdriver.Chrome(executable_path=r'chromedriver')
 		self.driver = webdriver.Firefox()
 		self.driver.get(self.url)
+		self.LAST_HEIGHT = self.driver.execute_script("return document.body.scrollHeight")
 
 		self.Get() # taking datas
 
@@ -34,7 +41,16 @@ class Main:
 						EC.presence_of_all_elements_located((By.TAG_NAME, "img"))
 					) # finish taking datas
 
-				break
+				time.sleep(2)
+				time.sleep(self.SCROLL_PAUSE_TIME)
+
+				self.driver.execute_script(f"window.scrollTo({self.timer}, document.body.scrollHeight);")
+				NEW_HEIGHT = self.driver.execute_script("return document.body.scrollHeight")
+
+				if NEW_HEIGHT == self.LAST_HEIGHT or self.timer == 5:
+					break
+
+				self.timer = self.timer + 1
 
 		except Exception as error:
 			print("Some errors.", error)
@@ -47,11 +63,9 @@ class Main:
 
 	def Print(self):
 		for data in self.datas[5:]:
-			# print(data.get_attribute('src'), "\n")
-			# print("*"*25)
-
-			self.all_photos[self.index] = data.get_attribute('src')
-			self.index = self.index + 1
+			if data.get_attribute('src') is not None:
+				self.all_photos[self.index] = data.get_attribute('src')
+				self.index = self.index + 1
 
 		self.ToJson()
 
