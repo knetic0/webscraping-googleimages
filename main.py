@@ -11,12 +11,18 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
+'''
+I prefer use to firefox for searching photos.
+But you can use to chrome for searching photos.
+'''
+
+
 class Main:
 	''' CONST VARIABLES'''
 	SCROLL_PAUSE_TIME = 0.5
 	''''''
 	url = "https://www.google.com.tr/imghp?hl=tr"
-	timer = 0
+	timer = 1
 	index = 0
 	datas = []
 	all_photos = {}
@@ -30,7 +36,7 @@ class Main:
 		self.get()
 		'''
 
-		# self.driver = webdriver.Chrome(executable_path=r'chromedriver')
+		#self.driver = webdriver.Chrome("$HOME/bin/chromedriver") # for searching by google chrome.
 		self.driver = webdriver.Firefox()
 		self.driver.get(self.url)
 		self.LAST_HEIGHT = self.driver.execute_script("return document.body.scrollHeight")
@@ -38,13 +44,18 @@ class Main:
 		self.Get() # taking datas
 
 	def Get(self):
-		print(self.driver.title)
+		print(f"Searching {search_input} photos on {self.driver.title}...")
 		# sending keys 
 		self.driver.find_element(by=By.XPATH ,value="/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input").send_keys(search_input)
 		self.driver.find_element(by=By.CLASS_NAME, value="zgAlFc").click()
+		refresh_site = self.driver.find_element(by=By.XPATH, value="//*[@id='islmp']/div/div/div/div[1]/div[2]/div[2]/input")
 
 		try:
 			while True:
+				
+				if refresh_site.is_displayed():
+					refresh_site.click()
+
 				self.datas = WebDriverWait(self.driver, 10).until(
 						EC.presence_of_all_elements_located((By.TAG_NAME, "img"))
 					) # finish taking datas
@@ -55,7 +66,7 @@ class Main:
 				self.driver.execute_script(f"window.scrollTo({self.timer}, document.body.scrollHeight);")
 				NEW_HEIGHT = self.driver.execute_script("return document.body.scrollHeight")
 
-				if NEW_HEIGHT == self.LAST_HEIGHT or self.timer == 5:
+				if NEW_HEIGHT == self.LAST_HEIGHT or self.timer == 15: # if you want to search photos more than, you can increase 'self.timer == {15}'.
 					break
 
 				self.timer = self.timer + 1
